@@ -1,2 +1,2 @@
 - 👋 Hi, I’m just a techie.
-- 👀 I’m interested in learning Linux, Python, PHP and C
+- 👀 I’m interested in learning Python, PHP and C
