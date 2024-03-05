@@ -1,2 +1,1 @@
-- 👋 Hi, I’m just a techie.
-- 👀 I’m interested in learning Python, PHP and C
+web2 and web3 security 😊
