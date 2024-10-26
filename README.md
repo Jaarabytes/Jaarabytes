@@ -1,4 +1,4 @@
-web, ml (practicing) & cloud systems
+web & cloud systems
 
 
 <a>
